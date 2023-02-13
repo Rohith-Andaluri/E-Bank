@@ -1,0 +1,19 @@
+.home-main-container {
+  min-height: 100vh;
+  background-color: #152850;
+}
+.bank-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.bank-desc {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 38px;
+  font-weight: 500;
+}
+.digital-card {
+  height: 300px;
+}
